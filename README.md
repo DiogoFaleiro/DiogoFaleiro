@@ -1,4 +1,4 @@
-# Olá, me chamo Diogo Faleiro ! 
+# Olá, me chamo Diogo Faleiro tenho 26 anos ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em desenvolvimento de sites e e-commerce e representação de empresas fazendo o que amo que é ensinar e ajudar as pessoas a usar sistemas para seu dia a dia na empresa.
@@ -6,6 +6,8 @@
 - 🌱 Atualmente estou aprendendo desenvolvimento WEB!
 
 - 📫 Como entrar em contato comigo: (64) 99240-6919
+
+- 👯 Estou procurando colaborar em ajudar empresas com minha habilidade em atendimento e treinamento ao cliente.
 
 ## Ferramentas e Tecnologias
 
