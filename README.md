@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou trabalhando como Helpdesk na empresa Hiper Software fazendo negócios mais felizes!
 
-- 🌱 Atualmente estou aprendendo desenvolvimento WEB!
+- 🌱 Atualmente estou cursando graduação em analise e desenvolvimento de sistemas pela Uniasselvi
 
-- 📫 Como entrar em contato comigo: (64) 99240-6919
+- 📫 Como entrar em contato comigo: diogofaleirotj09@gmail.com
 
 - 👯 Estou procurando colaborar em ajudar empresas com minha habilidade em atendimento e treinamento ao cliente bem como a experiência em edição de vídeos para propagandas e material para marketing.
 
