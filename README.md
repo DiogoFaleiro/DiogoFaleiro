@@ -1,4 +1,4 @@
-# Olá, me chamo Diogo Faleiro tenho 27 anos ! 
+# Olá, me chamo Diogo Faleiro tenho 27 anos! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em desenvolvimento de sites e e-commerce e representação de empresas fazendo o que amo que é ensinar e ajudar as pessoas a usar sistemas para seu dia a dia na empresa.
