@@ -1,13 +1,13 @@
-# Olá, me chamo Diogo Faleiro tenho 27 anos! 
+# Olá, me chamo Diogo Faleiro tenho 28 anos! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como Analista de Atendimento na empresa Hiper Software fazendo negócios mais felizes!
+- 🔭 Atualmente estou trabalhando como Analista de Experiência do Cliente na empresa Hiper Software fazendo negócios mais felizes!
 
-- 🌱 Atualmente estou cursando graduação em liderança e gestão de tecnologia juntamente com desenvolvimento web.
+- 🌱 Atualmente sou graduado em liderança e gestão de tecnologia pela Conquer
 
 - 📫 Como entrar em contato comigo: diogofaleirotj09@gmail.com
 
-- 👯 Estou sempre melhorando 1% a cada dia em minhas habilitades e estou sempre em busca de alta performance em tudo que faço!
+- 👯 Estou melhorando 1% a cada dia em minhas habilitades e sempre em busca de alta performance em todas as áreas da vida!
 
 ## Ferramentas e Tecnologias
 
