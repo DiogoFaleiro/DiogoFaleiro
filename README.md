@@ -1,13 +1,29 @@
 # Olá, me chamo Diogo Faleiro tenho 29 anos! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como Analista de Experiência do Cliente na empresa Hiper Software fazendo negócios mais felizes!
+- 🧑‍💼 Sou fundador da DFsystem Soluções Empresariais, onde ajudo empresas a crescer com sistemas de gestão, automação comercial, tecnologia aplicada ao varejo, bots de atendimento e soluções digitais completas.
+ 
+- 🔭 Trabalhei como Analista de Experiência do Cliente na empresa Hiper Software fazendo negócios mais felizes!
 
 - 🌱 Atualmente sou graduado em liderança e gestão de tecnologia pela Conquer
 
 - 📫 Como entrar em contato comigo: diogofaleirotj09@gmail.com
 
 - 👯 Estou melhorando 1% a cada dia em minhas habilitades e sempre em busca de alta performance em todas as áreas da vida!
+
+# 💻 O que você vai encontrar por aqui?
+
+- Projetos da DFsystem
+  
+- Ferramentas internas, automações e integrações
+
+- Scripts úteis e melhorias contínuas dos meus sistemas
+  
+- Documentações, estudos e ideias que estou desenvolvendo
+
+# 🎯 Sobre mim
+
+Empresário, criador de soluções e apaixonado por tecnologia aplicada ao negócio. Minha missão é facilitar a vida dos empreendedores e transformar processos complexos em experiências simples.
 
 ## Ferramentas e Tecnologias
 
