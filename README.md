@@ -3,7 +3,7 @@
 **Fundador da DFsystem · Agentes de IA e automação para pequenas empresas**
 
 Ajudo pequenos negócios a vender mais e operar melhor, transformando processos manuais em fluxos automatizados.
-São mais de 9 anos implantando ERP, PDV, CRM e automação comercial direto com o empresário. Hoje, esse conhecimento vira **agentes de IA que trabalham dentro da operação do cliente**.
+São mais de 4 anos implantando ERP, PDV, CRM e automação comercial direto com o empresário. Hoje, esse conhecimento vira **agentes de IA que trabalham dentro da operação do cliente**.
 
 ## 📊 Na prática
 
