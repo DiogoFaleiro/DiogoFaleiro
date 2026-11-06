@@ -5,16 +5,16 @@
 Ajudo pequenos negócios a vender mais e operar melhor, transformando processos manuais em fluxos automatizados.
 São mais de 9 anos implantando ERP, PDV, CRM e automação comercial direto com o empresário. Hoje, esse conhecimento vira **agentes de IA que trabalham dentro da operação do cliente**.
 
+## 📊 Na prática
+
+- **+100 empresas atendidas** com sistemas de gestão, automação e integrações
+- **+200 atendimentos realizados por agentes de IA** em operações reais de clientes
+
 ## 🏢 O que a DFsystem entrega
 
 - **Agentes de IA e automação** — atendimento, follow-up comercial e rotinas operacionais com n8n e integrações sob medida
 - **Sistemas de gestão** — ERP, PDV, vendas, estoque e financeiro para o varejo
 - **Integrações** — conectando os sistemas que a empresa já usa para eliminar retrabalho
-
-## 📊 Na prática
-- [X] empresas atendidas
-- [Y] horas de trabalho manual eliminadas por mês
-- [Z] atendimentos feitos por agentes de IA
 
 ## 🛠️ Stack
 
@@ -35,14 +35,17 @@ São mais de 9 anos implantando ERP, PDV, CRM e automação comercial direto com
 **Aprofundando agora:** Agentes de IA (n8n e SquadOS) · IA aplicada a negócios · Desenvolvimento assistido por IA (Claude Code)
 
 ## 🎓 Formação
+
 - Liderança e Gestão de Tecnologia — Conquer
 - Agentes de IA e IA para Negócios — IBE
 - Certificações em SQL, Python, Customer Experience e Atendimento ao Cliente
 
 ## 🚀 Vamos conversar?
+
 Quer tirar o atendimento ou o follow-up da sua empresa do manual? Me chama:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55XXXXXXXXXXX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-CORRETO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5564992406919)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-faleiro-425822258)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dfsystem.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diogo_faleiro)
 [![Site](https://img.shields.io/badge/dfsystem.com.br-111111?style=for-the-badge)](https://dfsystem.com.br)
