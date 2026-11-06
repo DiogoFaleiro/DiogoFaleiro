@@ -47,5 +47,5 @@ Quer tirar o atendimento ou o follow-up da sua empresa do manual? Me chama:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5564992406919)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-faleiro-425822258)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dfsystem.com.br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diogo_faleiro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dfsystemsolucoes?srtk=d2NycW8zaHliMmQx)
 [![Site](https://img.shields.io/badge/dfsystem.com.br-111111?style=for-the-badge)](https://dfsystem.com.br)
