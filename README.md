@@ -1,6 +1,6 @@
 # Diogo Faleiro
 
-<img src="https://raw.githubusercontent.com/DiogoFaleiro/DiogoFaleiro/main/terminal.svg" width="100%" alt="Agente de IA da DFsystem processando um atendimento automaticamente"/>
+<img src="https://raw.githubusercontent.com/DiogoFaleiro/DiogoFaleiro/main/terminal.svg" width="460" alt="Agente de IA da DFsystem qualificando um lead automaticamente"/>
 
 **Fundador da DFsystem · Agentes de IA e automação para pequenas empresas**
 
