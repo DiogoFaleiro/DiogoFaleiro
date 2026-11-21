@@ -1,5 +1,7 @@
 # Diogo Faleiro
 
+<img src="./assets/terminal.svg" width="100%" alt="Agente de IA da DFsystem processando um atendimento automaticamente"/>
+
 **Fundador da DFsystem · Agentes de IA e automação para pequenas empresas**
 
 Ajudo pequenos negócios a vender mais e operar melhor, transformando processos manuais em fluxos automatizados.
