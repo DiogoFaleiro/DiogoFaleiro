@@ -13,7 +13,7 @@ São mais de 4 anos implantando ERP, PDV, CRM e automação comercial direto com
 ## 📊 Na prática
 
 - **+100 empresas atendidas** com sistemas de gestão, automação e integrações
-- **+200 atendimentos realizados por agentes de IA** em operações reais de clientes
+- **+200 atendimentos realizados por agentes de IA** em operações reais
 
 ## 🏢 O que a DFsystem entrega
 
